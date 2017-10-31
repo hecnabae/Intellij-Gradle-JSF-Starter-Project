@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.persistence:org.eclipse.persistence.jpa.modelgen.processor:2.5.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/org.eclipse.persistence.jpa.modelgen.processor/2.5.2/85a0c541afe89159b3dd6bc213d8cb95e6fe911b/org.eclipse.persistence.jpa.modelgen.processor-2.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/org.eclipse.persistence.jpa.modelgen.processor/2.5.2/d6c9ee1bd1059ec5f86dd2c6b22f792d396f214c/org.eclipse.persistence.jpa.modelgen.processor-2.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
